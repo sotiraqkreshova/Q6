@@ -1,6 +1,6 @@
 I read the string from "input.txt" file
 Then I loop on all the string.
 I initialize a stack "word" and keep pushing chars in it as long as I'm not done with the word.
-Once i am done.. I pop all the stack items into another string 'str_reversed' until the stack is empty
+Once I am done.. I pop all the stack items into another string 'str_reversed' until the stack is empty
 
 Then I put the other characters in the string 'str_reversed' until I start with another word and so on until I am done with the entire string.
